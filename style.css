@@ -1,0 +1,111 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+  
+}
+body{
+    background-color: #FFBAAB;
+}
+.quehice{
+    
+    background-repeat: no-repeat;
+   
+ background-size: cover;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #dadada;
+    color: #1e1e1e;
+    height: 90px;
+
+}
+
+.sisi{
+    height: 90px;
+    margin: 0px 110px;
+}
+.hola{
+    display: flex;
+    gap: 40px;
+    margin: 0px 80px;
+    cursor: pointer;
+    font-family: sans-serif;
+    list-style: none;
+    
+}
+
+.link{
+    text-decoration: none;
+    color: #1e1e1e;
+}
+
+.hola a:hover{
+    text-decoration: underline;
+    color: #0A9037;
+}
+
+.hola{
+display: flex;
+justify-content: center;
+    align-items: center;
+    margin: 70px 40px;
+
+    cursor: default;
+}
+
+
+  
+
+.nosotros{
+   color: white;
+   font-size: 45px;
+
+}
+p{
+    color: #1e1e1e;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 25px 0px;
+}
+.bbb{
+    border-radius: 30px;
+    background-color: aquamarine;
+    color: #1e1e1e;
+    height: 30px;
+    width: 80px;
+    padding: .5em .5em; 
+    border: none;
+    font-size: 13px;
+    cursor: pointer;
+   
+}
+.ccc{
+    border-radius:  30px;
+    border: solid 1px aquamarine;
+height: 30px;
+width: 80px;
+padding: .3em .3em;
+font-size: 10px;
+cursor: pointer;
+
+}
+.boton{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.img{
+    height: 20px;
+    width: 20px;
+}
+
+.rrr{
+width: 300px;
+height: 250px;
+padding: 0px 30px;
+}
